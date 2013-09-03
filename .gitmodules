@@ -1,0 +1,3 @@
+[submodule "javascript-state-machine"]
+	path = javascript-state-machine
+	url = https://github.com/jakesgordon/javascript-state-machine.git
