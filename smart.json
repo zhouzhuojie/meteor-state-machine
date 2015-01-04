@@ -1,9 +1,0 @@
-{
-  "name": "state-machine",
-  "description": "Javascript-state-machine for Meteor",
-  "homepage": "https://github.com/zhouzhuojie/meteor-state-machine",
-  "author": "Zhuojie Zhou <zz@pycode.me> (http://pycode.me)",
-  "version": "0.1.0",
-  "git": "https://github.com/zhouzhuojie/meteor-state-machine.git",
-  "packages": {}
-}
